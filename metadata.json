@@ -1,0 +1,6 @@
+{
+  "name": "Profielanalyse & Handelingsadvies",
+  "description": "Professionele webapplicatie voor studentprofielanalyse, handelingsadvies, en onderwijsreflectie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
